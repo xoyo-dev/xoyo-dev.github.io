@@ -1,2 +1,2 @@
 # xoyo-dev.github.io
-Página pessoal de André Quadros
+Exemplos de jogos do Curso de desenvolvimento de jogos digitais.
